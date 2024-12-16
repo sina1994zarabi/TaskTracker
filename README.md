@@ -21,8 +21,9 @@ is a simple command-line application to help you manage and track tasks efficien
 
 ## Commands
 
-### Add a Task
+
 ```bash
+### Add a Task
 task-cli add "Task description"
 # Example:
 task-cli add "Buy groceries"
